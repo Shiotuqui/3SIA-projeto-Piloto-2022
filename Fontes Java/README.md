@@ -1,0 +1,1 @@
+Coloque nesta paste somente arquivos .JAVA
